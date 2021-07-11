@@ -1,0 +1,12 @@
+.label-name {
+    color: black;
+    padding-top: 5px;
+}
+
+body > .card {
+    width: 25rem;
+} 
+
+.row-item {
+    margin: 8px;
+}
