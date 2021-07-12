@@ -3,8 +3,10 @@
     padding-top: 5px;
 }
 
-body > .card {
-    width: 25rem;
+.title {
+    margin-top: 200px;
+    text-align: center;
+    font-size: xxx-large;
 } 
 
 .row-item {
